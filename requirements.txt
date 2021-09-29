@@ -1,0 +1,9 @@
+Keras==2.2.5 tensorflow==1.14.0
+
+editdistance ==0.4  ## 最新的也行
+Keras==2.2.5
+tensorflow==1.14.0
+matplotlib
+pillow # Instead of pil
+scikit-learn # Instead of sklearn
+h5py # Needed by keras
